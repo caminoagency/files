@@ -2,10 +2,10 @@
 
 ::-moz-selection { /* Code for Firefox */
 
-    background: #D40005;
+    background: #D40005 !important;
   }
   
   ::selection {
 
-    background: #D40005;
+    background: #D40005 !important;
   }
