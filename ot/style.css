@@ -1,1 +1,11 @@
 /* Styles */
+
+::-moz-selection { /* Code for Firefox */
+
+    background: #D40005;
+  }
+  
+  ::selection {
+
+    background: #D40005;
+  }
